@@ -16,7 +16,7 @@ public class DEBUGWINDOW extends JFrame implements ActionListener {
     public Button but = null;
     public TextArea ta = new TextArea(20,50);
     public static DEBUGWINDOW instance = null;
-    public int heinrich = 11;
+
     // Ende Attribute
 
 

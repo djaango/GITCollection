@@ -14,7 +14,7 @@ public class CollectionTester {
     }
 
     public static void main(String [] args){
-        int github =1;
+        int github2 =1;
         CollectionTester coltest = new CollectionTester();
 
     }
